@@ -1,4 +1,4 @@
-# AI & Data Specialist Project
+# Matplotlib Fundamentals
 
 These notebooks were developed as part of the AI & Data Specialist program with Develhope, to apply and deepen the skills acquired during the course.
 
